@@ -1,0 +1,29 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"type": "totvs_language_debug",
+			"request": "launch",
+			"name": "Totvs Local",
+			"program": "${command:AskForProgramName}",
+			"cwb": "${workspaceFolder}",
+			"smartclientBin": "D:\\Totvs\\ProtheusLocal\\Protheus\\bin\\smartclient\\smartclient.exe",
+			"isMultiSession": true,
+			"enableTableSync": true,
+			"enableMultiThread": true
+		}
+	],
+	"lastPrograms": [
+		{
+			"label": "SIGAMDI"
+		},
+		{
+			"label": "launch"
+		},
+		{
+			"label": "99999"
+		}
+	],
+	"lastProgramExecuted": "SIGAMDI",
+	"lastProgramArguments": []
+}
